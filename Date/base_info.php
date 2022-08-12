@@ -1,3 +1,4 @@
+<?php $state = date("A"); ?>
 <script type="text/JavaScript">
 
     function setData(){
